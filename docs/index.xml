@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data analysis and visusalisation class pages</title>
+    <link>https://arinbasu.github.io/data_analysis_and_viz/</link>
+    <description>Recent content on Data analysis and visusalisation class pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2017 17:15:11 +1300</lastBuildDate>
+    
+	<atom:link href="https://arinbasu.github.io/data_analysis_and_viz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://arinbasu.github.io/data_analysis_and_viz/post/welcome/</link>
+      <pubDate>Sat, 23 Dec 2017 17:15:11 +1300</pubDate>
+      
+      <guid>https://arinbasu.github.io/data_analysis_and_viz/post/welcome/</guid>
+      <description>Hello World! This is a post to test that hugo works with github from my machine.</description>
+    </item>
+    
+  </channel>
+</rss>

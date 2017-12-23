@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://arinbasu.github.io/data_analysis_and_viz/post/welcome/</loc>
+    <lastmod>2017-12-23T17:15:11+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arinbasu.github.io/data_analysis_and_viz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arinbasu.github.io/data_analysis_and_viz/</loc>
+    <lastmod>2017-12-23T17:15:11+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arinbasu.github.io/data_analysis_and_viz/post/</loc>
+    <lastmod>2017-12-23T17:15:11+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arinbasu.github.io/data_analysis_and_viz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
